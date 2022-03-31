@@ -1,8 +1,6 @@
-## Welcome to my profile!
+## Jarl Sondre Sæther
 
-I'm a computer science student who likes working on web development in his spare time!
-
-Currently learning React and Django.
+I'm a computer science student at NTNU, specializing in Artificial Intelligence. As a web developer I mostly work with Python and Django, but I also have experience with frontend development. 
 
 <!--
 **jarlsondre/jarlsondre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
