@@ -1,6 +1,18 @@
 ## Jarl Sondre Sæther
 
-I'm a computer science student at NTNU, specializing in Artificial Intelligence. As a web developer I mostly work with Python and Django, but I also have experience with frontend development. 
+I'm a computer science student at NTNU, specializing in Artificial Intelligence. I have experience in web development, as well as some experience in reinforcement learning. These are the technologies/languages I have used the most: 
+- Python
+- Tensorflow/Keras
+- Django
+- Java
+- TypeScript
+- React
+- Redux
+- PostgreSQL
+- Docker
+- Kubernetes
+- Kotlin
+
 
 <!--
 **jarlsondre/jarlsondre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
