@@ -10,7 +10,7 @@ Within the domain of AI, the tools and technologies I have the most experience w
 - Pandas
 - Matplotlib/Seaborn
 
-I also have a ton of experience in general development. For those purposes, most of my time has been spent on the following technologies: 
+I also have a ton of experience with full-stack development. For those purposes, most of my time has been spent on the following technologies: 
 - JavaScript/TypeScript
 - React
 - Redux
